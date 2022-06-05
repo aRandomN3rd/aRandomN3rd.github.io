@@ -1,0 +1,2 @@
+# Idlegame
+ ;)
